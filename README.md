@@ -1,4 +1,4 @@
-# NewsLetter
+# Formulário NewsLetter
 
 Bem-vindo ao Form NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber NewsLetter diária por e-mail.
 
