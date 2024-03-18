@@ -1,6 +1,6 @@
 # Formulário NewsLetter
 
-Bem-vindo ao Form NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber NewsLetter diária por e-mail.
+Bem-vindo ao Form NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber uma NewsLetter diária por e-mail.
 
 Visão Geral: O sistema oferece uma solução abrangente para captar pessoas que desejam receber a NewsLetter.
 
