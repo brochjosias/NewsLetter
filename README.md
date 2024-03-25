@@ -20,8 +20,6 @@ cd form_news;
 
 Instale as Dependências: npm install;
 
-cd form_news;
-
 Inicie o Projeto: npm run dev;
 
 Clique no link fornecido para acessar;
