@@ -19,9 +19,7 @@ Frameworks: _React_, _Tailwind_
 Banco de Dados: _Local Storage_
 _É um sistema front-end pronto para ser integrado_
 
-## Configuração do Ambiente de Desenvolvimento
-
-Faça o download do repositório em seu ambiente de desenvolvimento:
+## Faça o download do repositório em seu ambiente de desenvolvimento:
 
 ```bash
 cd form_news
