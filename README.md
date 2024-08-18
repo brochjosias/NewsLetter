@@ -1,27 +1,46 @@
 # Formulário NewsLetter
 
-Bem-vindo ao Form NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber uma NewsLetter diária por e-mail.
+Bem-vindo ao Formulário NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber uma NewsLetter diária por e-mail.
 
-Visão Geral: O sistema oferece uma solução abrangente para captar pessoas que desejam receber a NewsLetter.
+## Visão Geral
 
-Funcionalidades: Inserir dados, cadastrar e passar pelas validações para conseguir se inscrever.
+O sistema oferece uma solução abrangente para captar pessoas que desejam receber a NewsLetter.
 
-Tecnologias Utilizadas: Linguagens de Programação: TypeScript, HTML e CSS; Frameworks: React e Tailwind; Banco de Dados: Local Storage.
+## Funcionalidades
 
-É um sistema front-end pronto para ser integrado.
+Inserir dados
+Cadastrar
+Passar pelas validações para conseguir se inscrever
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+## Tecnologias Utilizadas
 
-Faça o download do repositório;
+Linguagens de Programação: _TypeScript_, _HTML_, _CSS_
+Frameworks: _React_, _Tailwind_
+Banco de Dados: _Local Storage_
+_É um sistema front-end pronto para ser integrado_
 
-Em seu ambiente de desenvolvimento:
+## Configuração do Ambiente de Desenvolvimento
 
-cd form_news;
+Siga estas etapas:
 
-Instale as Dependências: npm install;
+Faça o download do repositório
 
-Inicie o Projeto: npm run dev;
+Em seu ambiente de desenvolvimento
 
-Clique no link fornecido para acessar;
+```bash
+cd form_news
+```
 
-Assim que carregar aparecerá o sistema em seu navegador padrão.
+Instale as Dependências
+
+```bash
+npm install
+```
+
+Inicie o Projeto
+
+```bash
+npm run dev
+```
+
+Clique no link fornecido no terminal para acessar. Assim que carregar, o sistema será exibido no seu navegador padrão.
