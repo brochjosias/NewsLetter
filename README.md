@@ -21,11 +21,7 @@ _É um sistema front-end pronto para ser integrado_
 
 ## Configuração do Ambiente de Desenvolvimento
 
-Siga estas etapas:
-
-Faça o download do repositório
-
-Em seu ambiente de desenvolvimento
+Faça o download do repositório em seu ambiente de desenvolvimento:
 
 ```bash
 cd form_news
