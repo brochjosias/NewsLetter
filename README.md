@@ -14,10 +14,11 @@ Passar pelas validações para conseguir se inscrever
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _TypeScript_, _HTML_, _CSS_
-Frameworks: _React_, _Tailwind_
-Banco de Dados: _Local Storage_
-_É um sistema front-end pronto para ser integrado_
+- TypeScript
+- HTML
+- CSS
+- React
+- Tailwind
 
 ## Faça o download do repositório em seu ambiente de desenvolvimento:
 
