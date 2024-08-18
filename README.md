@@ -1,60 +1,40 @@
-# Consulta-Git
+# Formulário NewsLetter
 
-Bem-vindo ao Consulta-Git! Este é um sistema de gerenciamento de perfis do GitHub que organiza de forma eficiente as informações mais importantes de cada perfil e seus projetos.
+Bem-vindo ao Formulário NewsLetter! Este é um sistema dedicado ao gerenciamento eficiente de cadastros para receber uma NewsLetter diária por e-mail.
 
 ## Visão Geral
 
-O sistema oferece uma variedade de recursos, permitindo a administração precisa dos dados associados aos perfis e projetos, facilitando a realização de operações fundamentais para uma gestão eficaz.
+O sistema oferece uma solução abrangente para captar pessoas que desejam receber a NewsLetter.
 
 ## Funcionalidades
 
-Pesquisar e ver Perfis
-Selecionar linguagens dos projetos
-Limpar
+Inserir dados
+Cadastrar
+Passar pelas validações para conseguir se inscrever
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Frameworks: _React_
-Banco de Dados: _json-server_
-Outras Tecnologias: _PropTypes_, _axios_
+Linguagens de Programação: _TypeScript_, _HTML_, _CSS_
+Frameworks: _React_, _Tailwind_
+Banco de Dados: _Local Storage_
+_É um sistema front-end pronto para ser integrado_
 
-## Configuração do Ambiente de Desenvolvimento
-
-Siga estas etapas:
-
-Faça o download do repositório
-
-Em seu ambiente de desenvolvimento
-
-**BACK-END:**
+## Faça o download do repositório em seu ambiente de desenvolvimento:
 
 ```bash
-cd api-github
+cd form_news
 ```
 
-Instale as Dependências:
+Instale as Dependências
 
 ```bash
 npm install
 ```
 
-Inicie o Back-end:
+Inicie o Projeto
 
 ```bash
-npm run json-server
+npm run dev
 ```
 
-**FRONT-END:**
-
-```bash
-cd api-github
-```
-
-Inicie o Front-end:
-
-```bash
-npm start
-```
-
-Assim que carregar, o sistema será exibido no seu navegador padrão.
+Clique no link fornecido no terminal para acessar. Assim que carregar, o sistema será exibido no seu navegador padrão.
